@@ -1,0 +1,8 @@
+./output
+**/*.o
+**/*.asm
+**/*.sym
+**/*.o.d
+.gdbinit
+./output/kernel
+
